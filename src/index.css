@@ -306,7 +306,7 @@ span {
 
 @media (max-width:596px) {
   .service-info h4 {
-      font-size: 2rem!important;
+      font-size: 1.8rem!important;
     }
   .service-info p {
       font-size: 1.5rem!important;
