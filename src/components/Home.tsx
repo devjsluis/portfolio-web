@@ -66,7 +66,10 @@ function Home() {
   return (
     <section className="home" id="home">
       <div className="home-img">
-        <img src="/src/assets/image/img1.jpg" alt="" />
+        <img
+          src="https://firebasestorage.googleapis.com/v0/b/portfolio-df44c.appspot.com/o/img1.jpg?alt=media&token=ff67a361-1631-4ef2-89ec-44457e8d350d"
+          alt=""
+        />
       </div>
       <div className="home-content">
         <h1>
